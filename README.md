@@ -11,6 +11,6 @@ pil module
 How to acesss:
 To run this we open vs code and run the code and output console will be displayed and our created GUI interface is enabled and we can access to its functions.
 Team members GIT Hub ID's:
-Hemanth: hemanthcharan8
+Hemanth Charan: hemanthcharan8
 Ajay: Ajaykumar5043
 Nandeeshwar: Nandeeshwar8
